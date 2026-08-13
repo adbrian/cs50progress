@@ -1,0 +1,13 @@
+venv/
+.env
+*.html
+dump.txt
+dumps.txt
+scrape.txt
+abc.*
+ijk.*
+scraper_bs4.py
+local_bs4.py
+calendartest.py
+richtest.py
+beautsup/
