@@ -8,6 +8,9 @@ A terminal calendar displaying CS50 pset submission data.
 
  The calendar displays each month where we have submitted psets. Dates when pset submissions have been made will have the green font.
 
+<img width="427" height="261" alt="image" src="https://github.com/user-attachments/assets/e74c4859-1b61-49a0-8978-6d8f2b40cb75" />
+
+
 Built as my final CS50p project
 
 ## Requirements
