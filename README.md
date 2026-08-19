@@ -1,5 +1,9 @@
 # CS50progress
 
+#### Video Demo: <>
+
+
+#### Description:
 A terminal calendar displaying CS50 pset submission data.
 
  The calendar displays each month where we have submitted psets. Dates when pset submissions have been made will have the green font.
