@@ -1,8 +1,8 @@
 venv/
 .env
-*.html
 dump.txt
 dumps.txt
+dumps.html
 scrape.txt
 abc.*
 ijk.*
@@ -11,3 +11,7 @@ local_bs4.py
 calendartest.py
 richtest.py
 beautsup/
+prototyping/
+xyz.*
+__pycache__/
+.pytest_cache/
